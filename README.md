@@ -45,6 +45,7 @@ We come to you in: **Bothasig | Edgemead | Richwood | Burgundy | Plattekloof**
 
 ## 📅 Book Now
 **Whatsapp Luke:** [0849208328](https://wa.me/27849208328)
-Facebook https://www.facebook.com/share/1Zpk99vuZ5/
+
+Facebook Business Page https://www.facebook.com/share/1Zpk99vuZ5/
 
 
