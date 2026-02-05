@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4f2c8ed3-5348-4f33-a727-efbec2d0d726" width="200">
+  <img src="![Exterior 1]https://github.com/user-attachments/assets/4f2c8ed3-5348-4f33-a727-efbec2d0d726" width="200">
 </p>
 
 # The Car Spa
@@ -47,10 +47,7 @@
 ## ⭐ Client Reviews
 ![Customer Reviews](https://github.com/user-attachments/assets/3a3f3948-c20f-4e63-b9a5-0ff46f9e3bc1)
 
----
 
-## ⭐ Client Reviews
-![Customer Reviews](https://github.com/user-attachments/assets/3a3f3948-c20f-4e63-b9a5-0ff46f9e3bc1)
 
 ---
 
