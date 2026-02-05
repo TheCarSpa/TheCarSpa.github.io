@@ -9,8 +9,8 @@
 ---
 
 ## 🧼 Why Choose The Car Spa?
-* **We Come To You:** Professional detailing at your home or office.
-* **Premium Care:** We use high-quality foam and microfibers to protect your paint.
+* **We Come To You:** Professional detailing at the comfort of your home or office.
+* **Premium Care:** Only use high-quality PH neutral foam and products to protect your vechile inside & out 
 * **Local & Trusted:** Proudly serving the Northern Suburbs.
 
 ---
@@ -31,14 +31,21 @@
 * **Bonus:** 3-month Ceramic Sealant for deep gloss, UV protection, and extreme water beading.
 
 ---
+# 📸 Work Gallery
 
-## 📸 Work Gallery
+![Exterior 1](https://github.com/user-attachments/assets/9e190622-9122-4b9c-9529-3f03c0798fed)
+![Exterior 2](https://github.com/user-attachments/assets/ff897563-fe8b-45c0-a983-30ab2aeb5dc2)
 
-| | |
-| :---: | :---: |
-| ![1](https://github.com/user-attachments/assets/9e190622-9122-4b9c-9529-3f03c0798fed) | ![2](https://github.com/user-attachments/assets/ff897563-fe8b-45c0-a983-30ab2aeb5dc2) |
-| ![3](https://github.com/user-attachments/assets/ecea619c-6e71-47a6-aee4-92aa28b9aa7c) | ![4](https://github.com/user-attachments/assets/6899bce1-5a2f-4f60-b423-e9d96feb3882) |
-| ![5](https://github.com/user-attachments/assets/0a0f2524-c344-4092-87fa-2c27a7acc81b) | ![6](https://github.com/user-attachments/assets/09430940-598d-4416-9248-c450df193b69) |
+![Exterior 3](https://github.com/user-attachments/assets/ecea619c-6e71-47a6-aee4-92aa28b9aa7c)
+![Exterior 4](https://github.com/user-attachments/assets/6899bce1-5a2f-4f60-b423-e9d96feb3882)
+
+![Interior 1](https://github.com/user-attachments/assets/0a0f2524-c344-4092-87fa-2c27a7acc81b)
+![Interior 2](https://github.com/user-attachments/assets/09430940-598d-4416-9248-c450df193b69)
+
+---
+
+## ⭐ Client Reviews
+![Customer Reviews](https://github.com/user-attachments/assets/3a3f3948-c20f-4e63-b9a5-0ff46f9e3bc1)
 
 ---
 
