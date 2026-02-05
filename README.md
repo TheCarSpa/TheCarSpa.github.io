@@ -15,9 +15,9 @@ Feeling worn out after a long day and frustrated by the crowded car wash? I've g
 
 ### 🛠 Plan Details:
 
-* **Basic Shine:** Two foam washes, exterior plastic trimming treatment & tyre shine.
-* **Complete Clean:** Two foam washes, plastic trimming treatment, tyre shine, and interior vacuum and cabin clean.
-* **Ultimate Detail:** Includes everything in Complete Clean **PLUS** a 3-month Ceramic Sealant for deep gloss, UV protection, and extreme water beading.
+* **Basic Shine:** foam wash, contact wash &tyre shine.
+* **Complete Clean:** foam wash, contact wash,plastic trimming treatment, tyre shine, and interior vacuum.
+* **Ultimate Detail:** foam wash, contact wash,plastic trimming treatment, tyre shine, and interior vacuum, carpets cleaned with APC and full cabin wipedown **PLUS** a 3-month Ceramic Sealant for deep gloss, UV protection, and extreme water beading.
 
 ---
 
