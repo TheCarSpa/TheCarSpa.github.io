@@ -1,4 +1,4 @@
-# 🚗 The Car Spa
+# The Car Spa
 ### MOBILE CAR WASH: YOU RELAX, WE PERFECT.
 
 Feeling worn out after a long day and frustrated by the crowded car wash? I've got you covered! Convenient doorstep service delivering exceptional results your neighbor trusts, without breaking the bank. Choose a plan and enjoy a pristine car effortlessly!
@@ -28,6 +28,9 @@ Feeling worn out after a long day and frustrated by the crowded car wash? I've g
 ## 📍 Service Areas
 We come to you in:
 **Bothasig | Edgemead | Richwood | Burgundy | Plattekloof**
+
+Dont just take our word for it check out these client reviews
+(https://github.com/user-attachments/assets/3a3f3948-c20f-4e63-b9a5-0ff46f9e3bc1)
 
 ## 📅 Book Now
 **Whatsapp Luke:** [0849208328](https://wa.me/27849208328)
