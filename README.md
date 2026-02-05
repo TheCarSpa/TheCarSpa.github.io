@@ -9,8 +9,8 @@ Feeling worn out after a long day and frustrated by the crowded car wash? I've g
 
 | Plan | Price (Car) | Price (Bakkie/SUV) | Preview |
 | :--- | :--- | :--- | :--- |
-| **Basic Wash** | R120 | R150 | ![Basic]() |
-| **Interior Detail** | R160 | R200||
+| **Basic Wash** | R120 | R150 |
+| **Interior Detail** | R160 | R200|
 | **Full Spa** | R260 | R300 |
 
 
