@@ -1,4 +1,6 @@
-# ![Logo](https://github.com/user-attachments/assets/4f2c8ed3-5348-4f33-a727-efbec2d0d726) The Car Spa
+# <img src="https://github.com/user-attachments/assets/4f2c8ed3-5348-4f33-a727-efbec2d0d726" width="150">
+
+The Car Spa
 
 > **MOBILE CAR WASH: YOU RELAX, WE PERFECT.**
 
